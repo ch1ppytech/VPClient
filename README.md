@@ -1,12 +1,10 @@
 # VPClient
 
-VPClient is a powerful VistaPanel API client library written in PHP. It empowers developers to build custom control panels and seamlessly interact with VistaPanel, a robust web hosting control panel. With VPClient, you can manage websites, databases, domains, redirects, SSL certificates, and more, all programmatically using the VistaPanel API (Application Programming Interface).
-
-VistaPanel is a web hosting control panel that allows users to manage their websites, databases, and other aspects of their hosting environment. A VistaPanel API client is a program that can interact with VistaPanel using the VistaPanel API (Application Programming Interface). The API provides a set of methods that can be used to manage various aspects of the hosting environment programmatically.
+VPClient is a library for interacting with the VistaPanel control panel.
 
 # API Documentation
 
-The VistaPanel Users API allows you to interact with the VistaPanel hosting control panel using PHP. It provides methods for performing various tasks such as logging in, managing databases, working with domains, creating redirects, uploading SSL certificates, and more.
+The library allows you to interact with the VistaPanel hosting control panel using PHP. It provides methods for performing various tasks such as logging in, managing databases, working with domains, creating redirects, uploading SSL certificates, and more.
 
 ## Class: VistapanelApi
 
